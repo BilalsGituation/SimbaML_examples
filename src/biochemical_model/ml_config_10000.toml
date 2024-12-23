@@ -38,14 +38,8 @@ split_axis = "vertical"
 test_split = 0.2
 
 [data.time_series]
-<<<<<<< HEAD
-num_species = 1
-input_length = 5
-output_length = 3
-=======
 input_features = ["combined"]
 output_features = ["combined"]
 #num_species = 1
 input_length = 5
 output_length = 3
->>>>>>> 0f9b33f (security reinit)

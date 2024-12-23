@@ -37,15 +37,10 @@ synthetic = "/transformed_data_with_noise_100/"
 split_axis = "vertical"
 test_split = 0.2
 
-<<<<<<< HEAD
-[data.time_series]
-num_species = 1
-=======
 # Define the time series configurations
 [data.time_series]
 input_features = ["combined"]
 output_features = ["combined"]
 #num_species = 1
->>>>>>> 0f9b33f (security reinit)
 input_length = 5
 output_length = 3
