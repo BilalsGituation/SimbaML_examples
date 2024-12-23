@@ -4,4 +4,10 @@ matplotlib
 pandas
 tensorflow
 pytorch-lightning
+<<<<<<< HEAD
 gluonts==0.12.3
+=======
+gluonts[torch]
+ipykernel
+jupyter
+>>>>>>> 0f9b33f (security reinit)
